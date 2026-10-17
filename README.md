@@ -9,13 +9,13 @@
 
 <p>
   <a href="https://github.com/Bharat-Techno">
-    <img src="https://img.shields.io/badge/GitHub-Bharat--Techno-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Bharat--Techno-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="https://gitlab.com/BharatDasa">
-    <img src="https://img.shields.io/badge/GitLab-BharatDasa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/GitLab-BharatDasa-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bharat-dasa-07a35776/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bharat%20Dasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
 
