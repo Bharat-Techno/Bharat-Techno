@@ -1,3 +1,7 @@
+
+<img width="2172" height="724" alt="Bharat Dasa_ Intelligent Platform Engineering" src="https://github.com/user-attachments/assets/11e860a0-a3ff-4fe7-9250-197c58a5a9c1" />
+
+
 <h1 align="center">Bharat Dasa</h1>
 <h3 align="center">Platform Engineering · Cloud & DevOps · Kubernetes · DevSecOps · AI/MLOps</h3>
 
