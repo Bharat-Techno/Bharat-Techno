@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="Bharat Dasa_ Intelligent Platform Engineering" src="https://github.com/user-attachments/assets/96837509-d346-49e3-b7ec-2bbbf6a59bf3" />
+
+
 
 <div align="center">
 
